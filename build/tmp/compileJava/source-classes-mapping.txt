@@ -1,0 +1,12 @@
+co/com/choucair/certification/reto2/userinterface/SimulacionBancolombiaPage.java
+ co.com.choucair.certification.reto2.userinterface.SimulacionBancolombiaPage
+co/com/choucair/certification/reto2/tasks/OpenUp.java
+ co.com.choucair.certification.reto2.tasks.OpenUp
+co/com/choucair/certification/reto2/userinterface/PrincipalSiPage.java
+ co.com.choucair.certification.reto2.userinterface.PrincipalSiPage
+co/com/choucair/certification/reto2/tasks/PrincipalSi.java
+ co.com.choucair.certification.reto2.tasks.PrincipalSi
+co/com/choucair/certification/reto2/tasks/PrincipalNo.java
+ co.com.choucair.certification.reto2.tasks.PrincipalNo
+co/com/choucair/certification/reto2/userinterface/PrincipalNoPage.java
+ co.com.choucair.certification.reto2.userinterface.PrincipalNoPage

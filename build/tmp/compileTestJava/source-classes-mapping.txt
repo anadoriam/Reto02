@@ -1,0 +1,4 @@
+co/com/choucair/certification/reto2/runners/RunnerTags.java
+ co.com.choucair.certification.reto2.runners.RunnerTags
+co/com/choucair/certification/reto2/stepdefinitions/SimulacionBancolombiaStepDefinitions.java
+ co.com.choucair.certification.reto2.stepdefinitions.SimulacionBancolombiaStepDefinitions
